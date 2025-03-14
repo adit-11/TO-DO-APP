@@ -1,6 +1,6 @@
 A simple To-Do List web application built using HTML, CSS, and JavaScript. This app allows users to add, edit, and remove tasks while storing them in the browser's local storage for persistence.
 
-🚀 Features
+🚀 Features:
 ✅ Add new tasks
 ✅ Edit existing tasks
 ✅ Remove completed tasks
@@ -8,18 +8,19 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. This 
 ✅ Simple and responsive UI
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 HTML: Structure of the webpage
 CSS: Styling and layout
 JavaScript: Functionality and local storage integration
 
-📂 File Structure
-bash
-Copy
-Edit
+📂 File Structure:
+
 /to-do-list
+
 │── index.html     # Main HTML file  
+
 │── style.css      # Styling file  
+
 │── script.js      # JavaScript functionality  
 
 
