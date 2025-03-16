@@ -2,8 +2,11 @@ A minimal To-Do List web app built with HTML, CSS, and JavaScript. It lets you a
 
 Tech Stack:
 HTML – Page structure
+
 CSS – Styling & layout
+
 JavaScript – Functionality & local storage
+
 
 ## Project Preview  
 Click the image below to view it in full size:  
